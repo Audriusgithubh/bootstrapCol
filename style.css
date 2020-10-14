@@ -1,0 +1,35 @@
+.container {
+
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+    height: 200px;
+
+}
+.col {
+    padding-right: 0;
+    padding-left: 0;
+}
+.spalva {
+    background-color: aqua;
+}
+.spalva2 {
+    background-color: pink;
+}
+.remelis {
+    border: 1px black solid;
+}
+.plona {
+    height: 100px;
+}
+.storas{
+    height:195px;
+}
+.labaiplona {
+    height: 40px;
+}
+.ketvirtas {
+    height: 147px;
+}
